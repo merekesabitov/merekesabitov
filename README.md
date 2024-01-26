@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merekesabitov&label=Profile%20views&color=0e75b6&style=flat" alt="merekesabitov" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/merekesabitov?tab=repositories](https://github.com/merekesabitov?tab=repositories)
+- 🔭 I’m currently working on my pet project [Tasbih App](https://github.com/merekesabitov/TasbihApp)
+
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 📫 How to reach me **merekesabitov@mail.ru**
 
