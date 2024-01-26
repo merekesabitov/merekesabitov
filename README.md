@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mereke</h1>
+[<h1 align="center">Hi 👋, I'm Mereke</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merekesabitov&show_icons=true&locale=en&layout=compact" alt="merekesabitov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merekesabitov&show_icons=true&locale=en" alt="merekesabitov" /></p>
+](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif
