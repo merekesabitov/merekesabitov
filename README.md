@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merekesabitov&label=Profile%20views&color=0e75b6&style=flat" alt="merekesabitov" /> </p>
 
 - 🔭 **SQL • Python (matplotlib, seaborn, numpy) • PowerBI • Microsoft Excel**
-
-- 📫 How to reach me **merekesabitov@gmail.com**
+- 📫 Telegram: **https://t.me/takahasi8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
